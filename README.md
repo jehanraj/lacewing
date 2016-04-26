@@ -2,7 +2,7 @@
 Amateur news website in the Web 1.0 style
 
 ##Proposed list of tasks
-As thought up by @Gersande
+As thought up by [@Gersande](http://github.com/gersande)
 
 * Create a css folder to organize css files 
 * Go through all hyperlinks and make sure relative folder paths work properly 
