@@ -8,7 +8,7 @@ body {
 
 .button, .button img {
     width: 800px;
-    max-width: 98%;
+    max-width: 100%;
     margin: auto;
     halign: center;
     line-height: 0px;
