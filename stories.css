@@ -1,22 +1,21 @@
-
 body {
     background-color: white;
 }
 
-h2 { 
-   width: 100%; 
+h2 {
+   width: 100%;
    color: white;
    background-color:black;
 }
 
-h3 { 
-   position: relative; 
+h3 {
+   position: relative;
    text-align: center;
    color: black;
 }
 
-h4 { 
-   position: relative; 
+h4 {
+   position: relative;
    text-align: right;
    color: white;
    background-color:black;
@@ -24,8 +23,8 @@ h4 {
    margin-top: 0px
 }
 
-h5 { 
-   position: relative; 
+h5 {
+   position: relative;
    text-align: center;
    color: black;
    background-color:yellow;
