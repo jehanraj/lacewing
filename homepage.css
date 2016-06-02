@@ -7,7 +7,7 @@ body {
 }
 
 
-div {
+#story {
 
     background-color: white;
 
@@ -15,9 +15,11 @@ div {
 
     padding: 0px;
 
-    border: 3px solid black;
+    border: 0px solid black;
 
     margin: 15px;
+
+    halign: center;
 
 }
 
@@ -30,6 +32,7 @@ p {
     max-width: 100%;
     margin: auto;
     halign: center;
+
     line-height: 0px;
 }
 
