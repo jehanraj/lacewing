@@ -6,6 +6,25 @@ body {
     background-size: cover;
 }
 
+
+div {
+
+    background-color: white;
+
+    width: 800px;
+
+    padding: 0px;
+
+    border: 3px solid black;
+
+    margin: 15px;
+
+}
+
+p {
+    font-size: x-large;
+}
+
 .button, .button img {
     width: 800px;
     max-width: 100%;
